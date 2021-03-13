@@ -1,0 +1,9 @@
+Package: info.adolfoi.simplehome
+Name: SimpleHome
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Remove Today View and App Library View.
+Maintainer: Adolfoi_
+Author: Adolfoi_
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
